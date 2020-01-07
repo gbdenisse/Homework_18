@@ -1,0 +1,43 @@
+
+.nav-link  {
+    color: #5583A6;
+}
+.navbar-brand{
+    color: #5583A6!important;
+}
+
+.jumbotron{ 
+    color: white;
+    background-color: #5583A6!important;
+}
+.card{
+    border: none!important;
+}
+.btn{
+    background-color: #9E636B!important;
+    border: 0 none;
+}
+h3{
+    color: #5583A6!important;
+}
+.list-group-item-heading{
+    color: #5583A6!important;
+}
+
+  #footer {
+    background-color: #5583A6;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    
+  }
+  .blockquote-footer{
+    color: white;
+  
+  }
+  .btn-primary:hover {
+    background-color:rgb(110, 69, 75)!important;
+}
+.nav-link:hover{
+    color: black;
+}
